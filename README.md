@@ -1,6 +1,6 @@
 # retinaface_onnx
 
-## This repo is based on [https://github.com/biubug6/Pytorch_Retinaface](https://github.com/biubug6/Pytorch_Retinaface) which updated with the ability of convert model backbone into onnx model, allow using cpu for inference in realtime (TLDR: It's fast when running on cpu)<br />
+## This repo is based on [https://github.com/biubug6/Pytorch_Retinaface](https://github.com/biubug6/Pytorch_Retinaface) which updated with the ability of converting model backbone into onnx model, allow using cpu for inferencing in realtime (TLDR: It's fast when running on cpu)<br />
 
 ### Setup
 1. Using conda to create a virtual environment
