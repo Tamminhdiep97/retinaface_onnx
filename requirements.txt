@@ -1,6 +1,7 @@
-opencv-python
-torch
-Pillow
+opencv-python==4.5.5.62
+torch==1.10.2
+Pillow==8.4.0
 torchvision
-numpy
+numpy==1.19.5
 onnxruntime==1.10.0
+scikit-image==0.17.2
